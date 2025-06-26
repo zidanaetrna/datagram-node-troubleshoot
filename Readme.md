@@ -59,8 +59,8 @@ View the full FAQ in [faq/alpha-testnet.md](faq/alpha-testnet.md)
 Platform-specific installation steps:
 
 - [Linux](setup-guide/linux.md)
-- [Windows](setup-guide/windows.md) *(if applicable)*
-- [macOS](setup-guide/mac.md) *(if applicable)*
+- [Windows](setup-guide/windows.md)
+- [macOS](setup-guide/mac.md) 
 
 ---
 
