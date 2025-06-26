@@ -19,7 +19,7 @@ Output:
 ```
 App version: 1.1.4
 Downloading...
-panic: rename /tmp/download-25..41748.tmp /home/vps14raic19junins2nd/.datagram/conference/binaries/datagram-conference-cli-x86_64-linux: invalid cross-device link
+panic: rename /tmp/download-25..41748.tmp /home/.datagram/conference/binaries/datagram-conference-cli-x86_64-linux: invalid cross-device link
 ```
 
 ---
