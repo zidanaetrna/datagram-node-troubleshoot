@@ -1,6 +1,7 @@
 # Datagram Node Error: Cross-Device Link Panic
 
-**Problem Found and Resolved by:** aetrna
+**Problem Found and Reported by:** aetrna | drinkyouroj | nightwind
+**Resolved by:** aetrna
 
 ---
 
