@@ -1,6 +1,7 @@
 # Datagram Node Error: Wrong API Key Used (Wrong Key Source)
 
-**Problem Found and Reported by:** aetrna | drinkyouroj | nightwind
+**Problem Found and Reported by:** aetrna | drinkyouroj | nightwind  
+**Resolved by:** aetrna
 
 ---
 

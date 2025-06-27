@@ -1,6 +1,6 @@
 # Datagram Node Error: Connection Timeout / TLS Certificate Panic
 
-**Problem Found and reported by:** aetrna | drinkyouroj | nightwind
+**Problem Found and reported by:** aetrna | drinkyouroj | nightwind  
 **Resolved by:**  aetrna
 
 ---
